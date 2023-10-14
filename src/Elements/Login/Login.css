@@ -1,0 +1,21 @@
+.input-button button {
+    text-decoration: none;
+    color: #000000;
+    background-color: #f8f9fa;
+    border: 1px solid #d6d6d6;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px 0;
+    border-radius: 5px;
+    width: 95vw;
+}
+
+.margin-f-div {
+    margin: 15px 8px;
+}
+
+.input-button {
+    justify-content: center;
+    display: flex;
+}

@@ -1,0 +1,9 @@
+.favicon-img-form img {
+    width: 70px;
+}
+
+.favicon-img-form {
+    background-color: black;
+    border-radius: 50px;
+    margin-right: 20px;
+}

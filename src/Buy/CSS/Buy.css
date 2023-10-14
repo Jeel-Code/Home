@@ -1,0 +1,48 @@
+.main-div-for-f {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.fimage-left img {
+    border-radius: 10px;
+}
+
+.fimage-right {
+    width: 25%;
+    margin: 12px 20px;
+}
+
+.bg-img-fonsts-h6 {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .main-div-for-f {
+        display: block;
+    }
+
+    .fimage-left {
+        display: flex;
+        justify-content: center;
+    }
+
+    .fimage-right {
+        width: 100%;
+        text-align: center;
+        margin: 20px 0px;
+    }
+
+    .bg-img-fonsts small p {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .bg-img-fonsts small ul {
+        text-align: center;
+    }
+
+    .bg-img-fonsts small ul li {
+        list-style: none;
+    }
+}
